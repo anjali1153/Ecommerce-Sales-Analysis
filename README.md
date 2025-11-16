@@ -1,7 +1,6 @@
 # 🛒 E-Commerce Sales Analysis (Amazon Dataset)
 ### *End-to-End Data Analysis using Python, Pandas, Seaborn & Matplotlib*
 
-![Banner](images/banner.png) <!-- optional -->
 
 ---
 
@@ -121,3 +120,21 @@ Additional detailed plots for deeper insights.
 ---
 
 ## Folder Structure
+
+Ecommerce-Sales-Analysis/
+│
+├── data/
+│ └── amazon.csv
+│
+├── notebooks/
+│ └── Amazon_data_insights.ipynb
+│
+├── images/
+│ ├── top_categories_count.png
+│ ├── price_distribution.png
+│ ├── rating_kde_distribution.png
+│ ├── correlation_heatmap.png
+│ ├── reviews_wordcloud.png
+│ └── ... (more plots)
+│
+└── README.md
