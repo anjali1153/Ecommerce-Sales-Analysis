@@ -138,3 +138,27 @@ Ecommerce-Sales-Analysis/
 │ └── ... (more plots)
 │
 └── README.md
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Ecommerce-Sales-Analysis.git
+   cd Ecommerce-Sales-Analysis
+
+2. Install requirements:
+   pip install -r requirements.txt
+   pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+jupyter
+notebook
+scikit-learn
+
+4. Open Jupyter notebook:
+   jupyter notebook
+
+5. Run:
+notebooks/Amazon_data_insights.ipynb
